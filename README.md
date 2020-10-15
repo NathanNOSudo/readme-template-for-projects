@@ -15,10 +15,11 @@ This repo is to show what a detailed README should include. This README is writt
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-![GitHub forks](https://img.shields.io/github/forks/nathannosudo/readme-template-for-projects?label=Fork%20me%21&style=for-the-badge)[![Stargazers][stars-shield]][stars-url]
-![GitHub Repo stars](https://img.shields.io/github/stars/nathannosudo/readme-template-for-projects?style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues-raw/nathannosudo/readme-template-for-projects?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/nathannosudo/readme-template-for-projects?style=for-the-badge)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -199,3 +200,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
 [product-screenshot]: images/screenshot.png
+
