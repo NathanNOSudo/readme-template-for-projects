@@ -132,7 +132,7 @@ _For more examples, please refer to the [Project-Demo](https://example.com)_
 ## Videos and Screenshots
 
 Display videos, gifs are the easiest. Also include screenshots of the project, diffrent features or what not.
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> 
 ![dbzcode](https://user-images.githubusercontent.com/49554888/96146084-8b1cc300-0ecb-11eb-8025-1cb8b2e734f5.png)
 
 
