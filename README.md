@@ -1,5 +1,5 @@
-# readme-template-for-projects
-This repo is to show what a detailed README should include. This README is written and styled in Markdown.  You can edit this eitehr in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.
+# <p align="center">readme-template-for-projects
+This repo is to show what a detailed README should include. This README is written and styled in Markdown.  You can edit this eitehr in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.</p>
 
 <!--
 *** Reuse this template to avoid retyping. Do a search and replace for the following that relate to you:
@@ -131,7 +131,7 @@ _For more examples, please refer to the [Project-Demo](https://example.com)_
 
 Display videos, gifs are the easiest. Also include screenshots of the project, diffrent features or what not.
 
-
+![dbzcode](https://user-images.githubusercontent.com/49554888/96146084-8b1cc300-0ecb-11eb-8025-1cb8b2e734f5.png)
 
 
 <!-- ROADMAP -->
