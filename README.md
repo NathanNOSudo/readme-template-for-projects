@@ -1,4 +1,6 @@
-# <p align="center">readme-template-for-projects
+# <h2 align="center">[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
+  
+# <p align="center">A Template For Quick and Awesome README's. Give your project the README it deserves!
 This repo is to show what a detailed README should include. This README is written and styled in Markdown.  You can edit this either in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.</p>
 
 <!--
@@ -21,7 +23,8 @@ This repo is to show what a detailed README should include. This README is writt
 ![swagger](https://img.shields.io/badge/swag--check-VALID-brightgreen)
 ![Forks](http://githubbadges.com/fork.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
 ![stars-shield](http://githubbadges.com/star.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
-![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)
+![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)<br>
+# <h2 align="center">[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 <!-- [![Stargazers][stars-shield]][stars-url] -->
 <!-- [![Issues][issues-shield]][issues-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
