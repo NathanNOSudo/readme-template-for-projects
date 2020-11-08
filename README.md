@@ -31,7 +31,7 @@ This repo is to show what a detailed README should include. This README is writt
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
 ![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
+#<h2 align="center">![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 <!-- [![Issues][issues-shield]][issues-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
 <!--[![LinkedIn][linkedin-shield]][linkedin-url] -->
