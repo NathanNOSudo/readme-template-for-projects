@@ -14,14 +14,14 @@ This repo is to show what a detailed README should include. This README is writt
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use. Your editor may have an extension availabale. VSCode does for sure. You can add badges like ordinary snippets by pressing a few keys.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg) Thank you for stopping by!
+# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg)Visitors! Lets Connect On <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin">
+
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 ![swagger](https://img.shields.io/badge/swag--check-VALID-brightgreen)
 ![Forks](http://githubbadges.com/fork.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
 ![stars-shield](http://githubbadges.com/star.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
 ![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)
-<img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin">
 <!-- [![Stargazers][stars-shield]][stars-url] -->
 <!-- [![Issues][issues-shield]][issues-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
@@ -197,5 +197,18 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- Note: To get the badges at the top here is a few basic examples. Be sure to input your own github username and repo's name as in the example below!  -->
 <!-- [contributors-url]: https://github.com/GITHUB-USERNAME/REPO-NAME/graphs/contributors -->
 
-
+<!--[contributors-shield]: https://img.shields.io/github/contributors/NathanoNosudo/repo.svg?style=flat-square -->
+<!-- [contributors-url]: https://github.com/nathannosudo/readme-template-for-projects/graphs/contributors-->
+<!-- [swag-check]: https://img.shields.io/badge/swagger--check-VALID-brightgreen -->
+<!-- [forks-shield]: (http://githubbadges.com/fork.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default) -->
+<!-- [forks-url]: https://github.com/nathannosudo/readme-template-for-projects/network/members -->
+<!-- [stars-shield]: http://githubbadges.com/star.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=defaul -->
+<!-- [stars-url]: https://github.com/github_username/repo/stargazers -->
+<!-- [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square -->
+<!-- [issues-url]: https://github.com/github_username/repo/issues -->
+<!--[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square -->
+<!--[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt -->
+<!--[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555 -->
+<!--[linkedin-url]: https://linkedin.com/in/nathanorris -->
+<!--[product-screenshot]: images/screenshot.png -->
 
