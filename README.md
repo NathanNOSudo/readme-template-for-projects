@@ -16,12 +16,16 @@ This repo is to show what a detailed README should include. This README is writt
 -->
 # <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg) Thank you for stopping by!
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![Contributors][contributors-shield]][contributors-url] -->
+![swagger](https://img.shields.io/badge/swag--check-VALID-brightgreen)
+![Forks](http://githubbadges.com/fork.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
+![stars-shield](http://githubbadges.com/star.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
+![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)
+<img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin">
+<!-- [![Stargazers][stars-shield]][stars-url] -->
+<!-- [![Issues][issues-shield]][issues-url] -->
+<!-- [![MIT License][license-shield]][license-url] -->
+<!--[![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -189,17 +193,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
-[product-screenshot]: images/screenshot.png
+
+<!-- Note: To get the badges at the top here is a few basic examples. Be sure to input your own github username and repo's name as in the example below!  -->
+<!-- [contributors-url]: https://github.com/GITHUB-USERNAME/REPO-NAME/graphs/contributors -->
+
+
 
