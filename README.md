@@ -1,7 +1,8 @@
 # <h2 align="center">[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
-  
+# <h2 align="center">[![Package Control total downloads](https://img.shields.io/packagecontrol/dt/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)  
 # <p align="center">A Template For Quick and Awesome README's. Give your project the README it deserves!
 This repo is to show what a detailed README should include. This README is written and styled in Markdown.  You can edit this either in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.</p>
+
 
 <!--
 *** Reuse this template to avoid retyping. Do a search and replace for the following that relate to you:
@@ -16,7 +17,8 @@ This repo is to show what a detailed README should include. This README is writt
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use. Your editor may have an extension availabale. VSCode does for sure. You can add badges like ordinary snippets by pressing a few keys.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg)Visitors! Lets Connect On <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin">
+# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg)Visitors, connect with me on  <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin">
+
 
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
@@ -25,9 +27,11 @@ This repo is to show what a detailed README should include. This README is writt
 ![Forks](http://githubbadges.com/fork.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
 ![stars-shield](http://githubbadges.com/star.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-<br>![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)</br>
-# <h2 align="center">[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-<!-- [![Stargazers][stars-shield]][stars-url] -->
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
+![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]
 <!-- [![Issues][issues-shield]][issues-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
 <!--[![LinkedIn][linkedin-shield]][linkedin-url] -->
