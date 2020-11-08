@@ -21,9 +21,11 @@ This repo is to show what a detailed README should include. This README is writt
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 ![swagger](https://img.shields.io/badge/swag--check-VALID-brightgreen)
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![Forks](http://githubbadges.com/fork.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
 ![stars-shield](http://githubbadges.com/star.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
-![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)<br>
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+<br>![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)</br>
 # <h2 align="center">[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 <!-- [![Stargazers][stars-shield]][stars-url] -->
 <!-- [![Issues][issues-shield]][issues-url] -->
